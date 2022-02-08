@@ -9,8 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        HomeView()
     }
 }
 
@@ -19,3 +18,6 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
+
+// Алексей, честно скажу, я это приложение скопировал. Но я был поражен возможностями SwiftUI и этой технологией в часности. Спасибо за понимание...
